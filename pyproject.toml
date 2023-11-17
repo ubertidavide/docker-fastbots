@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "docker-fastbots"
-version = "0.1.0"
+version = "0.1.1"
 description = "Docker image for running containerized fastbots projects."
 authors = ["Davide <24529587+ubertidavide@users.noreply.github.com>"]
 license = "LICENSE"

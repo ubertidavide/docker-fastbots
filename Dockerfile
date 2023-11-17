@@ -1,7 +1,7 @@
 FROM python:3.11
 
 # mantainer
-LABEL mantainer="Uberti Daivde <24529587+ubertidavide@users.noreply.github.com>"
+LABEL mantainer="Uberti Davide <24529587+ubertidavide@users.noreply.github.com>"
 
 # update dependencies
 RUN apt-get update && apt-get upgrade -y 
