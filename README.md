@@ -1,2 +1,2 @@
 # docker-fastbots
-Docker image for running containerized fastbots projects.
+Docker images for running containerized fastbots projects with Chrome and Firefox ready to use setups.
