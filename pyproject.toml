@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "docker-fastbots"
-version = "0.1.7"
+version = "0.1.8"
 description = "Docker images for running containerized fastbots projects with Chrome and Firefox ready to use setups."
 authors = ["Davide <24529587+ubertidavide@users.noreply.github.com>"]
 license = "LICENSE"
@@ -8,7 +8,7 @@ readme = "README.md"
 
 [tool.poetry.dependencies]
 python = "^3.11"
-fastbots = "^0.1.7"
+fastbots = "^0.1.8"
 
 
 [build-system]
